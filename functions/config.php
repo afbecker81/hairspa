@@ -19,5 +19,5 @@
 
 /* Constantes de Configuração do Site */
 	//titulo
-	define('TITLE', 'Espelho Meu');
+	define('TITLE', 'Hair Spa!');
 ?>
